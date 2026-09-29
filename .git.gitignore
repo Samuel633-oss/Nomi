@@ -1,7 +1,0 @@
-.env
-.streamlit/secrets.toml
-nomi.db
-*.db
-__pycache__/
-.venv/
-venv/
